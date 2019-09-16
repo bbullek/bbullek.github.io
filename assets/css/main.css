@@ -3575,3 +3575,9 @@ input, select, textarea {
 	color: #5CB098;
 	font-size: 0.71em;
 }
+
+.objective {
+	color: #5CB098;
+	font-size: 1.2em;
+	font-style: italic;
+}
